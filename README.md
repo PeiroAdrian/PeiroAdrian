@@ -1,6 +1,6 @@
 # 👾 Adrian Peiro Tapia 
 
-**`Computer Systems Engineer in development`**
+**`System Engineering Student`**
 
 I am a student in Computer Systems Engineering with a passion for web development and a desire to learn and grow professionally. I have basic knowledge in programming languages ​​such as HTML, CSS, and JavaScript. Currently, I am studying at the Hermosillo Technological Institute, where I am furthering my skills and knowledge in the field of computer systems.
 
